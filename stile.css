@@ -44,7 +44,8 @@ image {
     font-size: 30px;
   }
   .flex-container>div:hover {
-	width: 150;
+	width: 150px;
+    height: 150px;
     transition-duration: 2s;
   }
 .Fleximg {
@@ -54,5 +55,6 @@ image {
 }    
 .Fleximg:hover {
     width: 150px;
+    height: 150px;
     transition-duration: 2s;
 }
