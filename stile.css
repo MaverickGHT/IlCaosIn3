@@ -46,4 +46,5 @@ image {
   flex-container>div:hover {
 	width: 150%;
     transition-duration: 2s;
+  }
     
