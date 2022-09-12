@@ -11,10 +11,8 @@ image {
 }
 
 .img {
-    
+    display:inline-flex;
     padding: 20px;
-    text-align: center;
-    align-items: center;
     background-color: black;
     border: 5px;
 
@@ -26,9 +24,10 @@ image {
 }
 
 .pos-loader {
+    margin-top: 10%;
     align-items: center;
     /* padding-left: 40%; */
-    display: inline-flex;
+    display:inline-flex;
 }
 .loader {
     border: 16px solid #f3f3f3;
