@@ -47,4 +47,7 @@ image {
 	width: 150%;
     transition-duration: 2s;
   }
-    
+.Fleximg {
+    width:100px;
+    height: 100px;
+}    
