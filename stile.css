@@ -5,17 +5,9 @@
     text-align: center;
 }
 
-image {
-    width: 300px;
-    height: 300px;
-}
-
 .img {
-    display:inline-flex;
-    padding: 20px;
-    background-color: black;
-    border: 5px;
-
+    border: 10px solid #0d0e0b;
+    display: inline-flex;
 }
 
 .writes {
@@ -37,7 +29,7 @@ image {
     width: 220px;
     height: 220px;
     -webkit-animation: spin 1s linear infinite;
-    animation: spin 0s linear infinite;
+    animation: spin 1s linear infinite;
     align-items: center;
   }
 
