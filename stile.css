@@ -5,12 +5,9 @@
     text-align: center;
 }
 
-
 .img {
     border: 10px solid #0d0e0b;
-    display: block;
-    
-
+    display: inline-flex;
 }
 
 .writes {
@@ -32,7 +29,7 @@
     width: 220px;
     height: 220px;
     -webkit-animation: spin 1s linear infinite;
-    animation: spin 0s linear infinite;
+    animation: spin 1s linear infinite;
     align-items: center;
   }
 
