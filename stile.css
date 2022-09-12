@@ -18,4 +18,8 @@ image {
     border: 5px;
 
 }
-
+.h1 {
+    font-size: 30;
+    text-align: center;
+    color: black;
+}
