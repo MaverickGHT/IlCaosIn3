@@ -43,3 +43,7 @@ image {
     line-height: 75px;
     font-size: 30px;
   }
+  flex-container>div:hover {
+	width: 150%;
+    transition-duration: 2s;
+    
