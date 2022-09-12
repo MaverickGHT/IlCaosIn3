@@ -11,5 +11,10 @@ image {
 }
 
 .img {
-   src: NissanSkyR34.jpg;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    border: 5px;
+    
 }
