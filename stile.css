@@ -26,7 +26,8 @@ image {
 
 .pos-loader {
     align-items: center;
-    padding-left: 40%;
+    /* padding-left: 40%; */
+    display: inline-flex;
 }
 .loader {
     border: 16px solid #f3f3f3;
