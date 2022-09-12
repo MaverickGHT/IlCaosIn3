@@ -24,7 +24,6 @@ image {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-<<<<<<< HEAD
 .pos-loader {
     align-items: center;
 }
@@ -49,10 +48,8 @@ image {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
-=======
 .h1 {
     font-size: 30;
     text-align: center;
     color: black;
 }
->>>>>>> 7dcf621dc781f4209a5d5128d3cb2b53a35ff897
