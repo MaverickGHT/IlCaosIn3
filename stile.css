@@ -37,7 +37,7 @@ image {
     width: 220px;
     height: 220px;
     -webkit-animation: spin 1s linear infinite;
-    animation: spin 10s linear infinite;
+    animation: spin 0s linear infinite;
     align-items: center;
   }
 
