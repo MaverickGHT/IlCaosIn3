@@ -56,7 +56,6 @@ image {
     color: black;
 }
 .flex-container {
-    align-items: center;
     display: flex;
     flex-wrap: nowrap;
     background-color: black;
