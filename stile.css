@@ -70,7 +70,7 @@ image {
     font-size: 30px;
   }
   .flex-container>div:hover {
-	width: 151px;
+	width: 150px;
     height: 150px;
     transition-duration: 2s;
   }
@@ -80,7 +80,7 @@ image {
     display:flex
 }    
 .Fleximg:hover {
-    width: 151px;
+    width: 150px;
     height: 150px;
     transition-duration: 2s;
 }
