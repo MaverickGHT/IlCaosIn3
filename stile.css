@@ -1,0 +1,11 @@
+.background {
+    background-color: darkorange;
+    background-image: linear-gradient(darkorange, black);
+    font-size: 55px;
+    text-align: center;
+}
+
+image {
+    width: 300px;
+    height: 300px;
+}
