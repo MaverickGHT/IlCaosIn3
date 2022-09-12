@@ -9,3 +9,12 @@ image {
     width: 300px;
     height: 300px;
 }
+
+.img {
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    border: 5px;
+    
+}
