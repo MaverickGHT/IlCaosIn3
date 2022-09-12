@@ -48,8 +48,9 @@ image {
     transition-duration: 2s;
   }
 .Fleximg {
-    width:100px;
+    width: 100px;
     height: 100px;
+    display:flex
 }    
 .Fleximg:hover {
     width: 150px;
