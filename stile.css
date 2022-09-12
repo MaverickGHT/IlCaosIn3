@@ -52,6 +52,6 @@ image {
     height: 100px;
 }    
 .Fleximg:hover {
-    width: 150;
+    width: 150px;
     transition-duration: 2s;
 }
